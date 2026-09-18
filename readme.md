@@ -1,3 +1,9 @@
+> **Archived — this project now lives in [quant-toolkit](https://github.com/Myan17/quant-toolkit).**
+> Its code and full commit history are preserved there under
+> [`legacy/Rolling_Correlation-Covariance`](https://github.com/Myan17/quant-toolkit/tree/main/legacy/Rolling_Correlation-Covariance).
+> The rebuilt library adds tests, a walk-forward backtest, and fixes to the
+> Sortino calculation and to weight/ticker alignment.
+
 # Rolling Correlation & Covariance Explorer
 
 This project analyzes **how assets move together over time**, using statistical tools that form the foundation of modern quantitative finance and portfolio construction.  
